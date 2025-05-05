@@ -8,6 +8,10 @@ import re
 import os
 import pandas as pd
 import os
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
 
 
 # Ensure stopwords are downloaded
