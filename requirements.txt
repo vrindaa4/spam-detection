@@ -1,3 +1,8 @@
+streamlit
+scikit-learn
+nltk
+pandas
+joblib
 aext_assistant @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_56voisekis/croot/aext-assistant_1698112933404/work
 aext_assistant_server @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_75w3qn4jh1/croot/aext-assistant-server_1698104616471/work/backend_lib/assistant
 aext_core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2dd2iam3y3/croot/aext-core_1698107551163/work
@@ -380,8 +385,4 @@ zict @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_06f3l
 zipp @ file:///Users/cbousseau/work/recipes/ci_py311/zipp_1677907997878/work
 zope.interface @ file:///Users/cbousseau/work/recipes/ci_py311/zope.interface_1678055276546/work
 zstandard @ file:///Users/cbousseau/work/recipes/ci_py311_2/zstandard_1678996192313/work
-streamlit
-scikit-learn
-nltk
-pandas
-joblib
+
