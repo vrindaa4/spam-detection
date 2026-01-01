@@ -28,15 +28,10 @@ To run the project locally, follow these steps:
    git clone https://github.com/your-username/spam-detection-app.git
 Install the required dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Streamlit application:
 
-bash
-Copy
-Edit
 streamlit run app.py
 Open the application in your browser and start classifying SMS messages.
 
